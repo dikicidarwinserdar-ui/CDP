@@ -1,0 +1,9 @@
+# CDP Detector
+
+Backend API for Copy Detection Pattern authentication.
+
+FastAPI
+
+OpenCV
+
+Python
